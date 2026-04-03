@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+"CFBundleDisplayName" = "Hyperscalar";
+"CFBundleName" = "Hyperscalar";
+"NSHumanReadableCopyright" = "Copyright © 2026 Hyperscalar. All rights reserved.";
